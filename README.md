@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/085de924-3440-46b1-83d9-a0d7ad7ef3d9" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e3cd6a77-70c3-4303-a9bb-6434b4a26651" width="100%" />
+  <!-- <img src="https://github.com/user-attachments/assets/085de924-3440-46b1-83d9-a0d7ad7ef3d9" width="100%" /> -->
 </p>
 
 <h1 align="left">Welcome to My Cloud</h1>
+
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/8bcd1963-9960-4edf-9e44-1a09ef4239f3" width="250" height="250" /> -->
 
